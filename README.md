@@ -11,7 +11,7 @@ The project demonstrates how data analytics and visualization can be used to imp
 ---
 
 ## 🗂️ Project Files
-
+ 
 The repository contains the following project resources:
 
 | File / Folder                          | Description                                             |
