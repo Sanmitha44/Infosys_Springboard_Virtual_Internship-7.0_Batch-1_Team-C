@@ -210,7 +210,7 @@ Overall, the project highlights how effective use of data and visualization can 
 
 * Sanmitha
 * Sabari Vasan 
-* Suryakanth Upadhyay
+* Suryakant Upadhyay
 
 The individual contributions and presentation materials of the team members are available in the **`Team_Members_PPT/`** folder.
 
