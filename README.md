@@ -1,4 +1,4 @@
-# 📊 Supply Chain Visibility & Optimization
+# 📊 Supply Chain Visibility System with Optimization Analytics Group1
 
 ## 🚀 Project Overview
 
